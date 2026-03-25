@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "base_track": "So Easy (To Fall In Love)",
+  "base_artist": "Olivia Dean",
+  "createdAt": "2026-03-25T12:40:14.288683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "has_synced": true,
+      "path": "select/01_So_Easy_(To_Fall_In_Love)_Olivia_Dean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "So Easy (To Fall in Love)",
+      "artist": "Olivia Dean",
+      "has_synced": true,
+      "path": "select/02_So_Easy_(To_Fall_in_Love)_Olivia_Dean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "So Easy (To Fall in Love)",
+      "artist": "Olivia Dean",
+      "has_synced": true,
+      "path": "select/03_So_Easy_(To_Fall_in_Love)_Olivia_Dean.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Song, Olivia Dean",
+      "has_synced": true,
+      "path": "select/04_So_Easy_(To_Fall_In_Love)_Song,_Olivia_Dean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "has_synced": true,
+      "path": "select/05_So_Easy_(To_Fall_In_Love)_Olivia_Dean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "has_synced": false,
+      "path": "select/pl_01_So_Easy_(To_Fall_In_Love)_Olivia_Dean.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "has_synced": true,
+      "path": "select/localdb_01_So_Easy_(To_Fall_In_Love)_Olivia_Dean.lrc",
+      "repo_name": "3sur4BmjQt8"
+    }
+  ]
+}
